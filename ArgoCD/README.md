@@ -1,5 +1,5 @@
 Handson 2
-In this handson ou will learn how to install ArgoCD on Minikube and Access ArgoCD on a Web browser.
+In this handson you will learn how to install ArgoCD on Minikube and Access ArgoCD on a Web browser.
 Pre-requisite:
 Minikube running
 Docker installed and logged in
@@ -24,12 +24,10 @@ If not works try using ArgoCD CLI
 Install ArgoCD CLI: choco install argocd-cli
 argocd admin initial-password -n argocd
 
-There you go guys: Main Task is to deploy APP using ArgoCD
-
-I need steps similarly for how to create APP in ArgoCD
-Note: Use this official Page
+To learn ArgoCD 
+Note: Use this official Page of ArgoCD
 https://argo-cd.readthedocs.io/en/stable/getting_started/
-
+Next things to do
 Part 1: Create APP from ArgoCD portal (UI)
 Part 2: Connect to Github repo of APP
 Part 3: Learn some important features of ArgoCD
