@@ -21,7 +21,7 @@ Install ArgoCD on minikube
     For password: kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}" | base64 -d; echo
 
     If not works try using ArgoCD CLI
-I   nstall ArgoCD CLI: choco install argocd-cli
+    Install ArgoCD CLI: choco install argocd-cli
     argocd admin initial-password -n argocd
 
 To learn ArgoCD 
