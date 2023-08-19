@@ -43,6 +43,7 @@ Install ArgoCD on minikube
 To learn ArgoCD 
 Note: Use this official Page of ArgoCD
 https://argo-cd.readthedocs.io/en/stable/getting_started/
+
 Next things to do
 1. Create APP from ArgoCD portal (UI)
 2. Connect to Github repo of APP
