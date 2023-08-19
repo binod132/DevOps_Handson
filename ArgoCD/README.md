@@ -11,7 +11,9 @@ Install ArgoCD on minikube
     kubectl create ns argocd
 
 2. Install ArgoCd
-    ```kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/v2.5.8/manifests/install.yaml```
+    ``` kubectl
+    kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/v2.5.8/manifests/install.yaml
+    ```
 3.  Verify Installation is done: makesure all Pods status are running.
     ```kubectl get all -n argocd```
 4. Access ArgoCD on web 
