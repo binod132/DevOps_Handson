@@ -44,8 +44,8 @@ To learn ArgoCD
 Note: Use this official Page of ArgoCD
 https://argo-cd.readthedocs.io/en/stable/getting_started/
 Next things to do
-Part 1: Create APP from ArgoCD portal (UI)
-Part 2: Connect to Github repo of APP
-Part 3: Learn some important features of ArgoCD
+1. Create APP from ArgoCD portal (UI)
+2. Connect to Github repo of APP
+3. Learn some important features of ArgoCD
 
 
